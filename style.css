@@ -1,0 +1,16 @@
+.login_div1{
+    background-color: cornsilk;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+body{
+    background-color: rgb(220, 83, 20);
+}
+#output{
+    background-color: aliceblue;
+    border-top: 10px solid red ;
+    float: none;
+    padding: 10px;
+    text-align: left;
+}
